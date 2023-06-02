@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "BeatSaberRPC",
+  "name": "BeatSaberRPC",
+  "author": "DoceAzedo",
+  "version": "0.0.1",
+  "description": "Discord Rich Presence for Beat Saber",
+  "gameVersion": "1.18.3",
+    "dependsOn": {
+        "BSIPA": "^4.2.0",
+        "SiraUtil": "^3.0.3"
+    }
+}
